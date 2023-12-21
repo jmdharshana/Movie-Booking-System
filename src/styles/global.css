@@ -1,0 +1,35 @@
+.NavBar{
+    text-align: center;
+    background-color: brown;
+    color: beige;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: medium;
+}
+.eventnamediv{
+text-align: center;
+margin-top: 0.5rem;
+padding: 1rem;
+background-color: aquamarine;
+border-radius: 1rem;
+}
+
+.inputsectionlabel{
+font-size: 1rem;
+color: black;
+margin-right: 1rem;
+}
+
+.inputsectioninput{
+font-size: 1rem;
+border-bottom: 0.1rem solid black;
+}
+.inputsectionbutton{
+    font-size: 1rem;
+    color: black;
+    background-color: chocolate;
+    border-radius: 1rem;
+    border: none;
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+}
